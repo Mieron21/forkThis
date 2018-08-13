@@ -1,17 +1,16 @@
-# Project Title
+# Testing123
 
 ## Forkthis Repo for Practice
 
-### Write your author name here. eg. By Nicole
+### Mieron Asfaha CodeBaseAcademy student 
 
 ### Description
 
-Create a description and fill it in here.
+CodeBaseAcademy practice with github using git bash. This is the first initial assignment, fork this repository. 
 
 ## Languages used
 
-What languages were used for this repo:
-List them
+Just basic Html 
 
 ### Known Bugs
 
@@ -23,6 +22,5 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* Hat tip to anyone who's code was used
-* Inspiration
-* etc
+* CodeBaseAcademy 
+* more.. 
